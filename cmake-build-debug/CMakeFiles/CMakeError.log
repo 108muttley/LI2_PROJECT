@@ -1,0 +1,54 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Anabela/Desktop/Bárbara/LI2_Project/LI2_Project/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_f905a\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_f905a.dir\build.make /nologo -L                  CMakeFiles\cmTC_f905a.dir\build
+Building C object CMakeFiles/cmTC_f905a.dir/testCCompiler.c.obj
+	C:\PROGRA~2\MICROS~4\2017\COMMUN~1\VC\Tools\MSVC\1412~1.258\bin\Hostx86\x86\cl.exe @C:\Users\Anabela\AppData\Local\Temp\nm5B2D.tmp
+testCCompiler.c
+Linking C executable cmTC_f905a.exe
+	"C:\Users\Anabela\Desktop\Bßrbara\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_f905a.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100162~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100162~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~4\2017\COMMUN~1\VC\Tools\MSVC\1412~1.258\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_f905a.dir\objects1.rsp @C:\Users\Anabela\AppData\Local\Temp\nm5EF7.tmp
+LINK Pass 1: command "C:\PROGRA~2\MICROS~4\2017\COMMUN~1\VC\Tools\MSVC\1412~1.258\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_f905a.dir\objects1.rsp /out:cmTC_f905a.exe /implib:cmTC_f905a.lib /pdb:C:\Users\Anabela\Desktop\B?rbara\LI2_Project\LI2_Project\cmake-build-debug\CMakeFiles\CMakeTmp\cmTC_f905a.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_f905a.dir/intermediate.manifest CMakeFiles\cmTC_f905a.dir/manifest.res" failed (exit code 1201) with the following output:
+LINK : fatal error LNK1201: erro de escrita no programa de banco de dados 'C:\Users\Anabela\Desktop\B?rbara\LI2_Project\LI2_Project\cmake-build-debug\CMakeFiles\CMakeTmp\cmTC_f905a.pdb'; verifique por espaþo em disco insuficiente, caminho invßlido, ou privilÚgio insuficiente
+NMAKE : fatal error U1077: '"C:\Users\Anabela\Desktop\Bßrbara\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe"' : c¾digo de retorno '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\nmake.exe"' : c¾digo de retorno '0x2'
+Stop.
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Anabela/Desktop/Bárbara/LI2_Project/LI2_Project/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_3fe1c\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_3fe1c.dir\build.make /nologo -L                  CMakeFiles\cmTC_3fe1c.dir\build
+Building C object CMakeFiles/cmTC_3fe1c.dir/testCCompiler.c.obj
+	C:\PROGRA~2\MICROS~4\2017\COMMUN~1\VC\Tools\MSVC\1412~1.258\bin\Hostx86\x86\cl.exe @C:\Users\Anabela\AppData\Local\Temp\nmA750.tmp
+testCCompiler.c
+Linking C executable cmTC_3fe1c.exe
+	"C:\Users\Anabela\Desktop\Bßrbara\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_3fe1c.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100162~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100162~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~4\2017\COMMUN~1\VC\Tools\MSVC\1412~1.258\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_3fe1c.dir\objects1.rsp @C:\Users\Anabela\AppData\Local\Temp\nmA899.tmp
+LINK Pass 1: command "C:\PROGRA~2\MICROS~4\2017\COMMUN~1\VC\Tools\MSVC\1412~1.258\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_3fe1c.dir\objects1.rsp /out:cmTC_3fe1c.exe /implib:cmTC_3fe1c.lib /pdb:C:\Users\Anabela\Desktop\B?rbara\LI2_Project\LI2_Project\cmake-build-debug\CMakeFiles\CMakeTmp\cmTC_3fe1c.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_3fe1c.dir/intermediate.manifest CMakeFiles\cmTC_3fe1c.dir/manifest.res" failed (exit code 1201) with the following output:
+LINK : fatal error LNK1201: erro de escrita no programa de banco de dados 'C:\Users\Anabela\Desktop\B?rbara\LI2_Project\LI2_Project\cmake-build-debug\CMakeFiles\CMakeTmp\cmTC_3fe1c.pdb'; verifique por espaþo em disco insuficiente, caminho invßlido, ou privilÚgio insuficiente
+NMAKE : fatal error U1077: '"C:\Users\Anabela\Desktop\Bßrbara\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe"' : c¾digo de retorno '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\nmake.exe"' : c¾digo de retorno '0x2'
+Stop.
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Anabela/Desktop/Bárbara/LI2_Project/LI2_Project/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_b755f\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_b755f.dir\build.make /nologo -L                  CMakeFiles\cmTC_b755f.dir\build
+Building C object CMakeFiles/cmTC_b755f.dir/testCCompiler.c.obj
+	C:\PROGRA~2\MICROS~4\2017\COMMUN~1\VC\Tools\MSVC\1412~1.258\bin\Hostx86\x86\cl.exe @C:\Users\Anabela\AppData\Local\Temp\nmF00B.tmp
+testCCompiler.c
+Linking C executable cmTC_b755f.exe
+	"C:\Users\Anabela\Desktop\Bßrbara\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_b755f.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100162~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100162~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~4\2017\COMMUN~1\VC\Tools\MSVC\1412~1.258\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_b755f.dir\objects1.rsp @C:\Users\Anabela\AppData\Local\Temp\nmF694.tmp
+LINK Pass 1: command "C:\PROGRA~2\MICROS~4\2017\COMMUN~1\VC\Tools\MSVC\1412~1.258\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_b755f.dir\objects1.rsp /out:cmTC_b755f.exe /implib:cmTC_b755f.lib /pdb:C:\Users\Anabela\Desktop\B?rbara\LI2_Project\LI2_Project\cmake-build-debug\CMakeFiles\CMakeTmp\cmTC_b755f.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_b755f.dir/intermediate.manifest CMakeFiles\cmTC_b755f.dir/manifest.res" failed (exit code 1201) with the following output:
+LINK : fatal error LNK1201: erro de escrita no programa de banco de dados 'C:\Users\Anabela\Desktop\B?rbara\LI2_Project\LI2_Project\cmake-build-debug\CMakeFiles\CMakeTmp\cmTC_b755f.pdb'; verifique por espaþo em disco insuficiente, caminho invßlido, ou privilÚgio insuficiente
+NMAKE : fatal error U1077: '"C:\Users\Anabela\Desktop\Bßrbara\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe"' : c¾digo de retorno '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\nmake.exe"' : c¾digo de retorno '0x2'
+Stop.
+
+
+
